@@ -1,7 +1,7 @@
 # Sumayod
 This Repository is for Prelim Examination
 ===========================================
-# __CHARL VINCENT - SUMAYOD__
+# **CHARL VINCENT - SUMAYOD**
 ===========================================
 ## How do NASA People organize a Party?
 ## They PLANet 
