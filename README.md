@@ -1,7 +1,7 @@
 # Sumayod
 This Repository is for Prelim Examination
 
-# CHARL VINCENT - SUMAYOD
+# **CHARL VINCENT - SUMAYOD**
 
 ## **My Dislikes**
 ## 1.) Rats
@@ -10,7 +10,7 @@ This Repository is for Prelim Examination
 ## 4.) Comparing with Someone
 ## 5.) Deep Oceans
 
-###### **Group Members**
-###### Faizza S. Billonid
-###### Mayjoy B. Cillo
-###### Charl Vincent D. Sumayod
+###### *Group Members*
+###### *Faizza S. Billonid*
+###### *Mayjoy B. Cillo*
+###### *Charl Vincent D. Sumayod*
