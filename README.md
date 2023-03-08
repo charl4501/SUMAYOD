@@ -1,7 +1,7 @@
 # Sumayod
 This Repository is for Prelim Examination
 
-# **CHARL VINCENT - SUMAYOD**
+# CHARL VINCENT - SUMAYOD
 
 ## **My Dislikes**
 ## 1.) Rats
